@@ -108,7 +108,7 @@ Imf::Imf()
 
 Imf::~Imf()
 {
-    qDebug("it's over");
+
 }
 
 
