@@ -15,11 +15,13 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     imf.cpp \
-    infooaplikacji.cpp
+    infooaplikacji.cpp \
+    laneemden.cpp
 
 HEADERS  += mainwindow.h \
     imf.h \
-    infooaplikacji.h
+    infooaplikacji.h \
+    laneemden.h
 
 FORMS    += mainwindow.ui \
     infooaplikacji.ui
